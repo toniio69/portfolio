@@ -1,0 +1,6 @@
+# Redirects for Netlify
+# Example: Redirect old URLs to new ones
+/old-page  /new-page  301
+
+# SPA fallback for client-side routing
+/*    /index.html   200
